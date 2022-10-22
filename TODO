@@ -1,0 +1,5 @@
+1. js validate the login id to make use of an email address/ or switch it up to only use admission id number
+2. show a no entry when viewing for a patient who's its first time and there's no prescription/medical log.
+3. Add functionality to the notification and messaging that is next to client profile photo.
+4. Patient login should be an app that will schedule and show the queue of those ahead of you.
+5. Within the app the patient can still cancel the appointment.
